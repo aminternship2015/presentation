@@ -3,6 +3,7 @@
 <head>
   <title>Hi there</title>
   INSERT minus HEADER
+  INSERT plus HEADER
 </head>
 <body>
   AAAAAAAhing else
