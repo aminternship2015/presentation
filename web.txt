@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Hi there</title>
+  INSERT HEADER
 </head>
 <body>
   AAAAAAAhing else
